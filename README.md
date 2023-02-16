@@ -17,4 +17,4 @@ Link: https://www.novypro.com/project/pbix
 
 YouTube Video: https://youtu.be/Tu-VvGjlPUg
 
-
+Linkdin Link : https://www.linkedin.com/posts/sandeep-kumar-sahoo-32705b104_entertainer-data-analysis-google-%E0%B9%84%E0%B8%94%E0%B8%A3%E0%B8%9F-activity-7031998719927422978-T5tk?utm_source=share&utm_medium=member_desktop
