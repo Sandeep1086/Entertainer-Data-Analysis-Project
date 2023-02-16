@@ -1,6 +1,6 @@
 # Entertainer-Data-Analysis-Project
 
-An internship project involving the career histories of many celebrities.Hello, My name is Abhijeet, and my partner, Sandeep, we are  data analyst interns at ineuron.ai. Our internship project is called Entertainer Data Analysis.
+Hello, My name is Abhijeet, and my partner, Sandeep, we are  data analyst interns at ineuron.ai. Our internship project is called Entertainer Data Analysis.
 
 Given dataset: https://drive.google.com/drive/folders/1sJm4vy-qfuk3CFgE_zMMPGVYFmoIg35n
 
